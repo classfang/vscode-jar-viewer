@@ -2,17 +2,17 @@
 	"name": "jar-viewer",
 	"displayName": "JAR Viewer",
 	"description": "Lists classes and files inside JAR archives.",
-	"version": "1.2.0",
-	"publisher": "wmanth",
+	"version": "1.0.0",
+	"publisher": "Junki",
 	"author": {
-		"name": "Wolfram Manthey"
+		"name": "Junki"
 	},
 	"license": "MIT",
 	"repository": {
-		"url": "https://github.com/wmanth/vscode-jar-viewer.git"
+		"url": "https://github.com/classfang/vscode-jar-viewer.git"
 	},
 	"bugs": {
-		"url": "https://github.com/wmanth/vscode-jar-viewer/issues"
+		"url": "https://github.com/classfang/vscode-jar-viewer/issues"
 	},
 	"icon": "images/icon.png",
 	"engines": {
